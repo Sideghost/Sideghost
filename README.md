@@ -1,16 +1,18 @@
-# Hi there 👋! I'm Carlos Pereira, but you can call me Guilherme!
+# YELLOW 👋! I'm Carlos Pereira, but you can call me Guilherme!
 
 ## 📌 About me
 
-Welcome, here's a glimpce of my magic:
+Welcome, here's a glimpce of my fairy dust:
 
-* 📄 Take a look at my [Resume](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/carlos+guilherme-cordeiro+pereira/3caf6a04-d2ba-4cf0-8fad-2439945a1241?view=html)
-* 📖 My studies are focused in Computer Science and Engeneering @ [ISEL](https://isel.pt)
-* 💻 Started programming in 2020, wonderful journey and there's still a loooong way to go...
+* 💻 Started my wonderful journey in 2020 tru bits and bytes, and there's still a loooong way to go...
+* 📖 I'm a graduate (FINNA DAMN LY) in Computer Science and Engeneering @[ISEL](https://isel.pt), now I jumped head first into a Masters' Programm @[FCT NOVA](https://www.fct.unl.pt/) with focus on Security and Machine Learning
+* 📄 Take a look at my [Resume](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/carlos+guilherme-cordeiro+pereira/d972e4d0-57d1-400f-852a-03ee5c60f160?view=html)
 * ⚡Interests:
    * 🇶🇦 Quality Assurance
    * 🗄️ Back-end Development
    * 🛢️ Database
+   * 🤖 Machine learning
+   * 🔐 Security
 * ⏭ Hoobies:
    * 🥋 Karate
    * 💪 Working out
