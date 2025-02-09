@@ -7,6 +7,7 @@ Welcome, here's a glimpce of my fairy dust:
 * 💻 Started my wonderful journey in 2020 tru bits and bytes, and there's still a loooong way to go...
 * 📖 I'm a graduate (FINNA DAMN LY) in Computer Science and Engeneering @[ISEL](https://isel.pt), now I jumped head first into a Masters' Programm @[FCT NOVA](https://www.fct.unl.pt/) with focus on Programming Languages & Software Systems
 * 📄 Take a look at my [Resume](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/carlos+guilherme-cordeiro+pereira/d972e4d0-57d1-400f-852a-03ee5c60f160?view=html)
+* 🌐 If you wanna take a closer look at my accomplishments you can see what's [here](https://sideghost.github.io/)...
 * ⚡Interests:
    * 🇶🇦 Quality Assurance
    * 🗄️ Back-end Development
